@@ -49,7 +49,9 @@
  * MMenu................Specific styles for mmenu addon.
  *
 */
-
+body {
+  background: red !important;
+}
 @import './01-settings/tailwind';
 @import './01-settings/fonts';
 @import './01-settings/global';
